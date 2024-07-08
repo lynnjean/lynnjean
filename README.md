@@ -1,25 +1,12 @@
-### <div align="center">I'm Jin Kim, a Data Analyst & Backend developer 👨‍💻 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github](https://github.com/lynnjean)  
-  
-
-- 🌱 I’m currently learning ML and DL  
-  
-
-- ❓ Ask me about anything related to Data Analysis stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
+### <div align="center">안녕하세요! 어디서든 지속적으로 성장하는 데이터 분석가 & Back-End 개발자 김 진 입니다.👨‍💻 🚀</div>  
+- 🔭 현재 작업 중인 프로젝트는 사내 서비스 분석 및 대시보드 제작하고 있습니다.  
+- 🌱 저는 현재 Polars 데이터 분석 라이브러리에 대해 공부중이며, 지속적으로 머신러닝과 딥러닝을 공부하고 있습니다.  
+- ❓ 제가 공부하고 있는 데이터 분석 스택 및 관련 기술에 대해 무엇이든 물어보세요.
+- ⚡  TMI: 제 MBTI는 ISTJ 입니다.  
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Data Analysis  
 <div align="center">  
@@ -30,8 +17,6 @@
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 </div>  
-
-
 
 ### etc.  
 <div align="center">  
@@ -101,28 +86,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnjean&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lynnjean&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
